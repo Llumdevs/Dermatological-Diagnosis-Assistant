@@ -1,4 +1,4 @@
-# Dermatological-Diagnosis-Assistant
+🐾 PetHealthCare — Clasificador de enfermedades dermatológicas caninas
 Desarrollo de un sistema de visión artificial para asistir en el triaje veterinario, clasificando 4 patologías dermatológicas comunes en perros. El proyecto explora la eficacia de MobileNetV2 con Fine-Tuning en un entorno de datos escasos (Small Data).
 
 DATASET KAGGLE: https://www.kaggle.com/datasets/yashmotiani/dogs-skin-disease-dataset
